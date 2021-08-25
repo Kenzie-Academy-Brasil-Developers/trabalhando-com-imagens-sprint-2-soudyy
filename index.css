@@ -1,0 +1,9 @@
+#pictureframe {
+    position: relative;
+}
+
+#trophy {
+    position: absolute;
+    left: 350px;
+    top: 200px;
+}
